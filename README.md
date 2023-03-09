@@ -9,10 +9,13 @@
 ___
 
 ## Project Description
-You are a back-end developer working on a team that is building an application to search for cuisines by country, and provide opportunity to learn more about that countries culture. This app will allow users to search for recipes by country, favorite recipes, and learn more about a particular country.
+Chematox labs collected toxicology data for many years in the state of Colorado. This project is an attempt to analyze that data through visualization and statistical means. The end goal is to provide a resource for researchers interested in toxicology data and understanding trends in drug use over time. This data set is of particular interest because it will straddle the legalization of marijuana in Colorado in 2014. <br>
+**I have been given permission to use this data by the owner of Chematox, Sarah Urfer, and steps have been taken to anonymize this data. If you spot any security issues please reach out to me.**
 
-Your team is working in a service-oriented architecture. The front-end will communicate with your back-end through an API. Your job is to expose that API that satisfies the front-end team’s requirements.
-
+Future plans include
+- API for querying entire database
+- Statistical analysis of data via Pandas python data analysis library
+- Front end for visualization of data in charts and graphs
 ___
 
 ## Setup
